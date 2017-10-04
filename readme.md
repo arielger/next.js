@@ -61,7 +61,7 @@ Install it:
 The beta has support for the latest version of React (v16) and is actively being developed upon.
 
 ```bash
-npm install next@beta react react-dom
+npm install next@beta react react-dom --save
 ```
 
 #### Stable
